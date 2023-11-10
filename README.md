@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- I'm Ranjith Kumar
+- I'm interested in Data Analytics
+- I'm currently learning java and C++
+- I'm looking to collaborate on projects related to Big Data Analytics and Data Mining
 <!--
 **ranjithG03/ranjithG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
