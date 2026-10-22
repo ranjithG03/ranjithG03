@@ -1,19 +1,14 @@
-### Hi there 👋
-- I'm Ranjith Kumar
-- I'm interested in Data Analytics
-- I'm currently learning java and C++
-- I'm looking to collaborate on projects related to Big Data Analytics,Data Mining and Mechine Learning.
-<!--
-**ranjithG03/ranjithG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, I'm Ranjith Kumar
+I'm a Software Engineer with experience in building enterprise backend services, full-stack development, and cloud automation.
 
-Here are some ideas to get you started:
+• 🔭 I’m currently working on enterprise backend services, AI-driven workflows, and application modernization using     C#, .NET Core Web API, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🌱 I’m currently learning Data Engineering, focusing on building ELT/ETL data pipelines and doing hands-on            practice in Databricks.
+
+• 👯 I’m looking to collaborate on projects related to Data Engineering, Cloud Infrastructure (AWS/Azure), and         Backend Development.
+
+• 💬 Ask me about C#, .NET Core, SQL query optimization, React.js, and Infrastructure as Code (Terraform).
+
+• 📫 How to reach me: ranjith.govindasu@gmail.com | LinkedIn
+
+• ⚡ Fun fact: I have delivered 10+ proof-of-concept projects focusing on integrating AI workflows and migrating        legacy monolithic apps to modern, scalable architectures!
